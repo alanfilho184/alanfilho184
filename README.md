@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Kami as my main project (BOT/Website/Android App)<br>🌱 I’m currently learning Vue.js<br>⚡ Fun fact I only started my main project because I was bored
+🔭 I’m currently working on Kami as my main project (BOT/Website/Android App)<br>🌱 Fun fact I only started my main project because I was bored
 
 
 ## 🌐 Socials:
